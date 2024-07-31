@@ -1,6 +1,6 @@
 # OptimalTopologiesForQN
 A repository for determining the optimal topology of TN QNs for a fixed given network cost.  
-## Dependencies
+## Requirements
 numpy: 1.20.1+  
 graph-tool: 2.37+  
 pandas: 1.5.2+  
